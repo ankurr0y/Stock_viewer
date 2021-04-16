@@ -1,0 +1,28 @@
+March 22nd, 2021 Monday - Searched for API to pull stock exhcange data. API can only do current day's data.
+			- Made base check all html program.
+			- Made program to traverse a range of dates
+March 23rd, 2021 Tuesday - Couldn't find an API which could traverse all dates on NEPSE. So made own API to do so.
+			 - Experimented with the following DBMS options: sqlite3, MySQL, PostgresSQL and Mongo DB, eventually settled for sqlite3.
+			 - Tested API for showing a specific date. Date was 2010-05-09 (first date with data on the website).
+			 - Each date is stored in its own SQLite file in the Database folder.
+			 - Started downloading each day from 2016-1-3 to present day one month at a time using date traversal over the website.
+			 For example,"nepalstock.com/main/today/index/?startDate=2016-1-3" is today's index for that day.
+			 - By looping the dates, we can parse each date available on the website.
+			 - Because of public holidays such as Dashain, Holi etc many days dont have data and the loop needs to be started again.
+			 - The market is also closed on Fridays and Saturdays so those days need to be skipped.
+			 - Started collecting the database, got upto half of 2016.
+March 24th, 2021 Wednesday - Started collecting rest of database upto 24th March. Took approxx 12 hours.
+			   - There are no entries from mid-March through April 2020 because of COVID and only 2 entries in May.
+			   - Stock market resumed activities normall on 29th of June.
+March 25th, 2021 Thursday - Created program to get all the filenames in a folder. In this case, the Database file.
+			  - Created a program to list all of the companies on the market in a txt file.
+March 26th, 2021 Friday - Started working on diagrams and charts using matplotlib.
+			- Created a program to list all available dates.
+March 27th, 2021 Saturday - started making Flask UI.
+			  - Parsed the txt files through the UI
+			  - Decided on delivery of data through creation of a PDF.
+March 28th, 2021 Sunday - PDF may not work, should try basic HTML instead
+			- Added all necessary form parts.
+			- Time to render onto a html page.
+March 29th, 2021 Monday - Finished basic input capabilities
+March 31st, 2021 Wednesday - Have to use bokeh instead of pyplot for chart because the chart only works on the main program.

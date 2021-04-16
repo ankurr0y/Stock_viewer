@@ -1,0 +1,60 @@
+<html>
+<head>
+	<link rel = "stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+	<title>Pick your options</title>
+	<style type="text/css">
+		.container-fluid {
+            background: #a52c644a;
+            text-align: center;
+            padding-top: 100px;
+            padding-bottom: 100px;
+         }   
+         .grid_system  div[class^="col"] {
+            border: 1px solid white;
+            background: #e4dcdc;
+            text-align: center;
+            padding-top: 5px;
+            padding-bottom: 5px
+         }
+	</style>
+</head>
+<body class="container-fluid">
+<div class="container">
+<table class="table table-striped" style="background-color: red; margin-top: -250px;">
+<tr><th colspan="2"><span class="Display-2">Input Form</span></th></tr>
+<form action="http://localhost:5000/next" method= "POST" enctype = "multipart/form-data" class="form-control">
+{{form.hidden_tag()}}
+
+<tr><th>{{form.companies.label}}</th>
+<td>{{form.companies}}</td></tr>
+<br>
+<tr><th>{{form.fromDate.label}}</th>
+<td>{{form.fromDate}}</td></tr>
+<br>
+<tr><th>{{form.toDate.label}}</th>
+<td>{{form.toDate}}</td></tr>
+<br>
+<tr><th>{{form.choiceChart.label}}</th>
+<td>{{form.choiceChart}}</td></tr>
+<br>
+<th>{{form.statUsed.label}}</th>
+<td>{{form.statUsed}}</td></tr>
+<br>
+<tr><th colspan="2"><input type="submit" name="Submit" class="btn btn-dark"></th></tr>
+</form>
+</table>
+</div>
+<script src = "https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+         integrity = "sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" 
+         crossorigin = "anonymous">
+      </script>
+      
+      <script src = "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" 
+         integrity = "sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" 
+         crossorigin = "anonymous">
+      </script>
+      
+      <script src = "bootstrap-4.0.0-dist/js/bootstrap.min.js">
+      </script>
+</body>
+</html>

@@ -1,0 +1,435 @@
+Ace Development Bank Ltd.
+Agriculture Development Bank Limited
+Api Power Company Ltd.
+Araniko Development Bank Limited
+Arun Valley Hydropower Development Co. Ltd.
+Asian Life Insurance Co. Limited
+Barun Hydropower Co. Ltd.
+Bhaktapur Finance Co. Ltd.
+Bishal Bazar Company Limited
+Butwal Power Company Limited
+Central Finance Co. Ltd.
+Century Commercial Bank Ltd.
+Chhimek Laghubitta Bikas Bank Limited
+Chilime Hydropower Company Limited
+Citizen Bank International Limited
+Citizen Investment Trust
+Civil Bank Ltd
+Civil Laghubitta Bittiya Sanstha Ltd.
+Country Development Bank Ltd.
+Deprosc Laghubitta Bittiya Sanstha Limited
+Deva Bikas Bank Limited
+Everest Bank Limited
+Everest Bank Limited Con. Pref.
+Everest Insurance Co. Ltd.
+Excel Development Bank Ltd.
+First Micro Finance Development Bank Ltd.
+Gandaki Bikas BankLimited
+Garima Bikas Bank Limited
+Global IME Bank Limited
+Goodwill Finance Co. Ltd.
+Grameen Bikas Laghubitta Bittiya Sanstha Ltd.
+Gurans Life Insurance Company Ltd.
+Hathway Finance Company Limited
+Himalayan Bank Limited
+Himalayan General Insurance Co. Ltd
+ICFC Finance Limited
+Janaki Finance Ltd.
+Jebils Finance Ltd.
+Kabeli Bikas Bank Limited
+Kalika Microcredit Development Bank Ltd.
+Kalinchowk Development Bank Ltd.
+Kasthamandap Development Bank Limited
+Kumari Bank Limited
+Laxmi Bank Limited
+Laxmi Laghubitta Bittiya Sanstha Ltd.
+Laxmi Value Fund-1
+Life Insurance Co. Nepal
+Lumbini Finance Ltd.
+Lumbini General Insurance Co. Ltd.
+Mahakali Bikas Bank Limited
+Mahalaxmi Bikas Bank Ltd.
+Mirmire Microfinance Development Bank Ltd.
+Miteri Development Bank Limited
+Muktinath Bikas Bank Ltd.
+Multipurpose Finance Company  Limited
+Nabil Bank Limited
+NABIL Bank Limited Promotor Share
+NagBeli LaghuBitta Bikas Bank Ltd.
+National Hydro Power Company Limited
+National Life Insurance Co. Ltd.
+Neco Insurance Co. Ltd.
+Nepal Bangladesh Bank Limited
+Nepal Bank Limited
+Nepal Doorsanchar Comapany Limited
+Nepal Insurance Co. Ltd.
+Nepal Investment Bank Limited
+Nepal Investment Bank Ltd. Promoter Share
+Nepal Life Insurance Co. Ltd.
+Nepal SBI Bank Limited
+Nerude Laghubita Bikas Bank Limited
+NIBL Samriddhi Fund 1
+NIC Asia Bank Ltd.
+NIDC Capital Markets Ltd.
+Nirdhan Utthan Laghubitta Bittiya Sanstha Limited
+NLG Insurance Company Ltd.
+NMB  Microfinance Bittiya Sanstha Ltd.
+NMB Bank Limited
+NMB Sulav Investment Fund-1
+Oriental Hotels Limited
+Pacific Development Bank Limited
+Pokhara Finance Ltd.
+Prabhu Insurance Ltd.
+Premier Insurance Co. Ltd.
+Prime Commercial Bank Ltd.
+Prime Life Insurance Company Limited
+Professional Diyalo Bikas Bank Ltd.
+ProgressiveFinance Limited
+Prudential Insurance Co. Ltd.
+Purnima Bikas Bank Ltd.
+Raptibheri Bikas Bank Ltd.
+Rastriya Beema Company Limited Promoter Share
+Reliable Development Bank Limited
+Ridi Hydropower Development Company Ltd.
+RMDC Laghubitta Bittiya Sanstha Ltd.
+Sagarmatha  Finance Limited
+Sagarmatha Insurance Co. Ltd.
+Sahara Bikas Bank Ltd.
+Sahayogi Bikas Bank Limited
+Sana Kisan Bikas Bank Ltd
+Sanima Bank Limited
+Sanima Mai Hydropower Ltd.
+Sarathi Nepal Laghubitta Bittiya Sanstha Limited
+Sewa Bikas Bank Limited
+Shangrila Development Bank Ltd.
+Shikhar Insurance Co. Ltd.
+Siddharth Finance Ltd.
+Siddhartha Bank Limited
+Siddhartha Equity Orineted Scheme
+Siddhartha Insurance Ltd.
+Siddhartha Investment Growth Scheme-1
+Soaltee Hotel Limited
+Standard Chartered Bank Limited
+Subhechha Bikas Bank Limited
+Summit Laghubitta Bittiya Sanstha Limited
+Sunrise Bank Limited
+Surya Life Insurance Company Limited
+Swabalamban Laghubitta Bittiya Sanstha Limited
+Swarojgar Laghu Bitta Bikas Bank Ltd.
+Synergy Finance Ltd.
+Taragaon Regency Hotel Limited
+Tinau Development Bank Limited
+Tourism Development Bank Limited
+Triveni Bikas Bank Limited
+Unilever Nepal Limited
+Unique Finance Ltd.
+United Insurance Co. (Nepal) Ltd.
+Vijaya laghubitta Bittiya Sanstha Ltd.
+Western Development Bank Limited
+Womi Microfinance Bittiya Sanstha Ltd.
+Biratlaxmi Bikas Bank Limited
+Global IME Laghubitta Bittiya Sanstha Ltd.
+Innovative Development Bank Ltd.
+Mahalaxmi BikasBank Limited
+Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.
+Mithila LaghuBitta Bittiya Sanstha Limited
+Mount Makalu Development Bank Ltd.
+Nabil Balance Fund 1
+Narayani National Finance Limited
+Reliance Finance Ltd.
+Cosmos Development Bank Ltd.
+Hama Merchant & Finance Ltd.
+Karnali Development Bank Limited
+Manjushree Finance Ltd.
+Union Finance Co. Ltd.
+Business Universal Development Bank Ltd.
+Jhimruk Bikas Bank Ltd.
+Rastriya Beema Company Limited
+United Finance Ltd.
+International Leasing & Finance Co. Ltd.
+Kankai Bikas Bank Ltd.
+Mahalxmi Bikas Bank Ltd. Promotor Share
+Kanchan Development Bank Limited
+Kisan Lagubitta Bittiya Sanstha Limited
+Manaslu Bikas Bank Ltd.
+Nepal Community Development Bank Ltd.
+Tinau Development Bank Ltd. Promoter
+Gandaki Bikas Bank Limited
+Mission Development Bank Ltd.
+Reliance Finance Ltd. Promoter Share
+Bottlers Nepal (Terai) Limited
+Paschimanchal Finance Co. Ltd.
+Guheshowori Merchant Bank & Finance Co. Ltd.
+Kumari Bank Limited Promotor Share
+Progressive Finance Limited Promoter Share
+Fewa Bikas Bank Ltd. Promoter Share
+Himalayan Distillery Limited
+NMB Bank Limited Promoter Share
+Sagarmatha  Finance Limited Promoter Share
+Namaste Bittiya Sanstha Ltd.
+Sindhu Bikash Bank Ltd
+Guras Life Insurance Company Ltd. Promoter Share
+Seti Finance Limited
+Bagmati Development Bank Ltd.
+Maha Laxmi Finance Ltd.
+Prime Commercial Bank Promoter Share
+Alpine Development Bank Limited
+ACE Development Bank Limited Promoter Share
+Bhargav Bikash Bank Ltd.
+Kasthamandap Dev. Bank Ltd Promoter Share
+First Micro Finance Development Bank Ltd. Promoter Share
+Nepal Life Insurance Co. Ltd. Promoter
+Citizens Bank Internatioal Limited Promoter Share
+Lalitpur Finance Ltd.
+Professional Diyalo Bikas Bank Ltd. Promoter Share
+Global IME Bank Ltd. Promoter Share
+Sahayogi Bikas Bank Ltd. Promoter Share
+Swabalamban Laghubitta Bittiya Sanstha Limited Promoter Share
+Janautthan Samudayic Laghubitta Bikas Bank Ltd.
+Excel Development Bank Ltd. Promoter Share
+Asian Life Insurance Co. Ltd Promoter Share
+Mahakali Bikas Bank Ltd. Promoter
+Prudential Insurance Co. Ltd. Promoter Share
+Saptakoshi Development Bank Ltd.
+Laxmi Bank Limited Promoter Share
+Reliable Development Bank Ltd. Promoter Share
+Sanima Bank Ltd. Promoter Share
+Garima Bikas Bank Limited Promoter Share
+Triveni Bikas Bank Ltd Promoter Share
+Machhapuchhre Bank Limited
+Best Finance Co. Limited Promoter Share
+Kanchan Development Bank Limited Promoter Share
+Sajha Bikas Bank Ltd.
+Kakre Bihar Bikash Bank Ltd
+Muktinath Bikas Bank Ltd. Promoter Share
+Tourism Development Bank Ltd. Prmoter Share
+ICFC Finance Limited Promotor Share
+Mega  Bank Nepal Ltd.
+Global IME Samunnat Scheme-1
+Civil Bank Ltd Promoter Share
+Om Development Bank Ltd.
+Nepal Insurance Co. Ltd Promoter Share
+IME General Insurance Ltd.
+Shikhar Insurance Co. Ltd. Promoter
+Bhargav Bikash Bank Ltd. Promoter Share
+Dev BikasBank Ltd. Promoter Share
+Salt Trading Corporation
+Sunrise Bank Ltd Promoter Share
+Karnali Development Bank Limited Promoter Share
+National Life Insurance Co. Ltd. Promoter Share
+Janata Bank Nepal Ltd.
+Pokhara Finance Company Limited Promoter Share
+Hydorelectricity Investment and Development Company Ltd
+Kankai Bikas Bank Ltd. Promoter Share
+Kailash Bikas Bank Ltd.
+Janata Bank Nepal Ltd. Promoter Share
+MachhaPuchhre  Bank Limited Promotor Share
+Swarojgar Laghu Bitta Bikas Bank Ltd. Promoter Share
+Siddhartha Bank Limited Promoter Share
+Guheyshwori Merchant & Finance Ltd. Promoter Share
+Chhimek Laghubitta Bikas Bank Limited Promoter Share
+Hamro Bikas Bank Ltd.
+Siddhartha Development Bank Ltd.
+Siddhartha Development Bank Limited Promoter Share
+Miteri Development Bank Ltd. Promoter Share
+Shine Resunga Development Bank Ltd.
+NIC Asia Bank Limted Promoter Share
+Mero Microfinance Bittiya Sanstha Ltd.
+Kailash Bikas Bank Ltd. Promoter Share
+Ngadi Group Power Ltd.
+Neco Insurace Co. Ltd. Promoter
+Shree Ram Sugar Mills Limited
+Sewa Bikas Bank Ltd. Promoter
+Jyoti Bikas Bank Limited
+Bank of Kathmandu Ltd.
+Araniko Development Bank Limited Promoter Share
+Kamana Sewa Bikas Bank Limited
+Prabhu  Bank Limited
+Prabhu  Bank Limited Promoter Share
+Summit Laghubitta Bittiya Sanstha Limited Promoter Share
+Bank of Kathmandu Limited Promoter Share
+Sindhu Bikas Bank Ltd. Promoter Share
+Shrijana Finance  (Bittaya Sanstha)
+Lumbini Bikas Bank Ltd.
+Bottlers Nepal (Balaju) Limited
+Lumbini Bikas Bank Ltd. Promoter Share
+IME General Insurance  Ltd. Promoter Share
+Green Development Bank Ltd.
+Jyoti Bikash  Bank Ltd. Promoter Share
+Mission Development Bank Ltd. Promoter Share
+Shrijana Finance Ltd. Promoter Share
+Manjushree Finance Ltd. Promoter Share
+Janaki Finance Limited Promoter Share
+Mega  Bank Nepal Ltd. Promoter Share
+NLG Insurance Company Ltd. Promoter Share
+Khanikhola Hydropower Co. Ltd.
+Union Finance Co. Ltd. Promoter Share
+NMB Hybrid Fund L-1
+Prabhu Insurance Company Ltd. Promoter
+Kalika Microcredit Development Bank Ltd. Promoter Share
+Nabil Equity Fund
+National Microfinance Bittiya Sanstha Ltd.
+RSDC Laghubitta Bittiya Sanstha Ltd.
+Suryodaya Laghubitta Bittiya Sanstha Ltd.
+Siddhartha Insurance Ltd. Promoter Share
+Dibyashwori Hydropower Ltd.
+Hathway Finance Company Limited Promoter Share
+Himalayan General Insurance Co. Ltd Promoter Share
+Nepal Credit And Commercial Bank Limited
+City Express Finance Co. Ltd. Promoter Share
+Nepal Bangladesh Bank Limited Promoter Share
+NIBL Pragati Fund
+Gurkhas Finance Ltd.
+Arun Kabeli Power Ltd.
+Synergy Finance Ltd. Promoter Share
+Shree Investment Finance Co. Ltd.
+NagBeli LaghuBitta Bikas Bank Ltd. Promoter Share
+Purnima Bikas Bank Ltd. Promoter Share
+Samriddhi Finance Company Limited Promoter Share
+Synergy Power Development Ltd.
+Forward Community Microfinance Bittiya Sanstha Ltd.
+Lalitpur Finance Co. Ltd. Promoter Share
+City Express Finance Co. Limited
+United Modi Hydropower Ltd.
+Samriddhi Finance Company Limited
+Corporate Development Bank Ltd. Promoter Share
+Surya Life Insurance Co. Ltd. Promoter Share
+Samata Microfinance Bittiya Sanstha Ltd.
+Hamro Bikas Bank Ltd. Promoter Share
+Nepal Credit & Commercial Bank Ltd. Promoter Share
+Century Commercial Bank Ltd. Promoter Share
+Rural Microfinance Development Centre Ltd. Promoter Share
+Best Finance Company Ltd.
+Chhyangdi Hydropower Ltd.
+Laxmi Equity Fund
+Jebils Finance Ltd. Promoter Share
+Swadeshi Laghubitta Bittiya Sanstha Ltd.
+United Insurance Co. (Nepal) Ltd. Promoter Share
+Himalayan Power Partner Ltd.
+Om Development Bank Ltd. Promoter
+Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.
+Shree Investment & Finance Co. Ltd. Promoter Share
+Nepal Community Development Bank Ltd. Promoter Share
+Gandaki Bikas Bank Limited Promoter Share
+Kamana Sewa Bikas Bank Limited Promoter Share
+Gurkhas Finance  Ltd. Promoter Share
+Shangrila Development Bank Ltd. Promoter Share
+Nepal Hydro Developers Ltd.
+Sana Kisan Bikas Bank Ltd Promoter Share
+Prime Life Insurance Company Limited Promoter Share
+Grameen Bikas Laghubitta Bittiya Sanstha Ltd. Promoter Share
+Multipurpose Finance Company  Limited Promoter Share
+Central Finance Co. Ltd. Promoter Share
+Siddhartha Equity Fund
+Nepal Finance Ltd. Promoter Share
+Sanima Equity Fund
+Support Microfinance Bittiya Sanstha Ltd.
+Unnati Sahakarya Laghubitta Bittiya Sanstha Limited
+Radhi Bidyut Company Ltd
+Corporate Development Bank Limited
+Arambha Microfinance Bittiya Sanstha Ltd.
+Citizens Mutual Fund -1
+NIC Asia Growth Fund
+Nepal Seva Laghubitta Bittiya Sanstha Ltd.
+Rairang Hydropower Development Company Ltd.
+Nadep Laghubittiya bittya Sanstha Ltd.
+Capital Merchant Bank & Finance Co. Ltd.
+Capital Merchant Bank. & Fin. Promoter Share
+Panchakanya Mai Hydropower Ltd
+Kalika power Company Ltd
+Nirdhan Utthan Bank Limited Promoter Share
+Mirmire Microfinance Development Bank Ltd. Promoter Share
+Ankhu Khola Jalvidhyut Company Ltd
+Aarambha Chautari Laghubitta Bittiya Sanstha Limited
+Joshi Hydropower Development Company Ltd
+Upper Tamakoshi Hydropower Ltd
+Samudayik Laghubitta Bittiya Sanstha Limited
+Goodwill Finance Co. Ltd. Promoter Share
+Everest Bank Ltd.Promoter
+Ghalemdi Hydro Limited
+Asha Laghubitta Bittiya Sanstha Ltd
+Sarathi Nepal Laghubitta Bittiya Sanstha Limited Promoter Share
+Shine Resunga Development Bank Ltd. Promoter Share
+SHIVAM CEMENTS LTD
+UNIVERSAL POWER COMPANY LTD
+Mountain Hydro Nepal Limited
+Panchthar Power Compant Limited
+Sparsha Laghubitta Bittiya Sanstha Limited
+Himalaya Urja Bikas Company Limited
+Gurans Laghubitta Bittiya Sanstha Limited
+Ganapati Microfinance Bittiya Sanstha Limited
+Nepal Agro Laghubitta Bittiya Sanstha Limited
+Union Hydropower Limited
+Sanima Bank Limited Debenture
+Swabhimaan Laghubitta Bittiya Sanstha Limited
+Infinity Laghubitta Bittiya Sanstha Limited
+Nepal Lube Oil Limited
+Lumbini General Insurance Co. Ltd. Promoter Share
+RASUWAGADHI HYDROPOWER COMPANY LIMITED
+SANJEN JALAVIDHYUT COMPANY LIMITED
+SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED
+ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED
+Ghodighoda Laghubitta Bittiya Sanstha Ltd.
+Tinau Mission Development Bank Limited
+Saptakoshi Development Bank Ltd
+Tinau Mission Development Bank Limited Promoter Share
+NMB  Microfinance Bittiya Sanstha Ltd. Promoter Share
+NIC Asia Balanced Fund
+Green Development Bank Ltd. Promoter Share
+Nepal Finance Ltd.
+11% NIC Asia Debenture 082/83
+Nerude Laghubita Bikas Bank Limited Promoter Share
+10.50% SBL Debenture 2082
+Himalayan Bank Ltd. Promoter
+NABIL BALANCED FUND-2
+Himal Dolakha Hydropower Company Limited
+Nepal Reinsurance Company Limited
+10.25% Sunrise Bank Debenture 2083
+NIC ASIA Laghubitta Bittiya Sanstha Limited
+NMB 50
+Sunrise First Mutual Fund
+10.5 % NEPAL INVESTMENT DEBENTURE 2082
+Ajod Insurance Limited
+United Finance Company Limited Promoter Share
+Sadhana Laghubitta Bittiya Sanstha Limited
+Womi Microfinance Bittiya Sanstha Ltd. Promoter Share
+NRN Infrastructure and Development Limited
+Reliance Life Insurance Limited
+10.25% KBL Debenture 2086
+10.25% NIC Asia Debenture 2083/84
+10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81
+10% Nepal SBI Bank Debenture 2086
+Laxmi Unnati Kosh
+Liberty Energy Company Limited
+General Insurance Company Nepal Ltd
+Premier Insurance Co. Ltd. Promoter Share
+Shiva Shree Hydropower Ltd
+Sanima General Insurance Limited
+10% Prabhu Bank Debenture 2084 
+SURYODAYA LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE
+ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE
+CITIZENS MUTUAL FUND 2
+Saptakoshi Development Bank Ltd Promoter Share
+Everest Insurance Co. Ltd. Promoter Share
+Narayani Development Bank Limited
+10% Himalayan Bank Debenture 2083
+RSDC Laghubitta Bittiya Sanstha Ltd. Promoter Share
+Vijaya laghubitta Bittiya Sanstha Ltd. Promoter Share
+Mountain Energy Nepal Limited
+United IDI Mardi RB Hydropower Limited.
+10% Sunrise Debenture 2080
+NIC Asia Debenture 2081/82
+Prabhu Life Insurance Limited
+Siddhartha Investment Growth Scheme - 2
+12% ICFC Finance Limited Debenture 2083
+Chandragiri Hills Limited
+National Microfinance Bittiya Sanstha Ltd. Promoter
+Nepal Infrastructure Bank Limited
+Forward Community Microfinance Bittiya Sanstha Ltd Promoter Share
+Sanima Large Cap Fund
+Mithila LaghuBitta Bikas Bank Ltd. Promoter Share
+10.25% NBBL Debenture 2085
+GreenLife Hydropower Limited
+Mahila Lagubitta Bittiya Sanstha Limited 
+Deprosc LaghuBitta Promoter Share
+Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd Promoter
